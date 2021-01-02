@@ -1,10 +1,4 @@
 # Course3_4
----
-title: "coodbook"
-author: "yingrui"
-date: "02/01/2021"
-output: html_document
----
 
 ```{r setup, include=FALSE}
 url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
